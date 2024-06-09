@@ -25,9 +25,6 @@ This Android application allows users to discover and display a list of nearby d
 7. Both devices should now display each other's names in the list.
 8. Tap on a device to view more details or initiate a connection.
 
-## Screenshots
-[Include screenshots of the app in action, showcasing the device list and any other relevant features.]
-
 ## Development
 This app was developed using Android Studio. To set up the development environment and build the app from source, follow these steps:
 
@@ -38,7 +35,4 @@ This app was developed using Android Studio. To set up the development environme
 
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
-
-## Contributing
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 ---
